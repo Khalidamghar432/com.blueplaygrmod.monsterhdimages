@@ -1,140 +1,140 @@
 {
   "categories": [
     {
-      "name": "category_name_1",
-      "preview": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true",
+      "name": "Blue Monster Playground_1",
+      "preview": "https://avatars.mds.yandex.net/i?id=25fbcf9122e16b548998aec28d2c173e75a069f4-10877393-images-thumbs&n=13",
       "wallpapers": [
         {
           "id": 0,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Blue Monster Playground_1",
+          "path": "https://avatars.mds.yandex.net/i?id=e133fb2759666890198f36b2f95d04322f095a30-8819379-images-thumbs&n=13"
         },
         {
           "id": 1,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Blue Monster Playground_1",
+          "path": "https://avatars.mds.yandex.net/i?id=6e1fc308ef28912edf4be90ec65e5454238e2c95-10555891-images-thumbs&n=13"
         },
         {
           "id": 2,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Blue Monster Playground_1",
+          "path": "https://avatars.mds.yandex.net/i?id=bc7d6fae422afded3c3cbaadc66a1e556ad2fdca-9144721-images-thumbs&n=13"
         },
         {
           "id": 3,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Blue Monster Playground_1",
+          "path": "https://avatars.mds.yandex.net/i?id=c43077bbc901849007ecf1a09f7c682b9eb209f8-9461051-images-thumbs&n=13"
         },
         {
           "id": 4,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Blue Monster Playground_1",
+          "path": "https://avatars.mds.yandex.net/i?id=c43077bbc901849007ecf1a09f7c682b9eb209f8-9461051-images-thumbs&n=13"
         },
         {
           "id": 5,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Blue Monster Playground_1",
+          "path": "https://avatars.mds.yandex.net/i?id=a5f05c962f1698b4566e2d9209f3cf45a021051a-9100075-images-thumbs&n=13"
         },
         {
           "id": 6,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Blue Monster Playground_1",
+          "path": "https://avatars.mds.yandex.net/i?id=37e486bb02cb2206c07b95ce36b102bb2a698f2f-9147982-images-thumbs&n=13"
         },
         {
           "id": 7,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Blue Monster Playground_1",
+          "path": "https://avatars.mds.yandex.net/i?id=f5788d97350373051eed83e5fbc6a1300aa9f166-9456457-images-thumbs&n=13"
         }
       ]
     },
     {
-      "name": "category_name_2",
-      "preview": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/2503295.jpg?raw=true",
+      "name": "Blue Monster Playground_2",
+      "preview": "https://avatars.mds.yandex.net/i?id=63b4f1db12b8c82d9877e0594b1198d816caed99-9030085-images-thumbs&n=13",
       "wallpapers": [
         {
           "id": 0,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/2503295.jpg?raw=true"
+          "category": "Blue Monster Playground_2",
+          "path": "https://avatars.mds.yandex.net/i?id=fcd6b237d3e4ce5c04d3995f3cd95f6a740d23c5-7754520-images-thumbs&n=13"
         },
         {
           "id": 1,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Blue Monster Playground_2",
+          "path": "https://avatars.mds.yandex.net/i?id=6a6b22e70e0dca76733bd8f6d10d504d179d46ef-4017639-images-thumbs&n=13"
         },
         {
           "id": 2,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Blue Monster Playground_2",
+          "path": "https://avatars.mds.yandex.net/i?id=f92801506f4a087adbcc4d839c3ef6d2f6132ef4-7042922-images-thumbs&n=13"
         },
         {
           "id": 3,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Blue Monster Playground_2",
+          "path": "https://avatars.mds.yandex.net/i?id=a039429c0227c7e10bd681ffddfa602cf16b70ee-8483432-images-thumbs&n=13"
         },
         {
           "id": 4,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Blue Monster Playground_2",
+          "path": "https://avatars.mds.yandex.net/i?id=aa54076ba136396af42960292c8fbd7bab38c0f1-8497314-images-thumbs&n=13"
         },
         {
           "id": 5,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Blue Monster Playground_2",
+          "path": "https://avatars.mds.yandex.net/i?id=c91c57f0944105e7ba76c24a15e5f87bbba3cd77-10637415-images-thumbs&n=13"
         },
         {
           "id": 6,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Blue Monster Playground_2",
+          "path": "https://avatars.mds.yandex.net/i?id=fb7fc8d02b2b8bd9bb6672304726039392d5539e-5008643-images-thumbs&n=13"
         },
         {
           "id": 7,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Blue Monster Playground_2",
+          "path": "https://avatars.mds.yandex.net/i?id=8fdb05d27e2bd83cec4b5323e1585927b6b7d6b6-10114686-images-thumbs&n=13"
         }
       ]
     },
     {
-      "name": "category_name_3",
-      "preview": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true",
+      "name": "Blue Monster Playground_3",
+      "preview": "https://avatars.mds.yandex.net/i?id=6cc7e6278097c73acb3f1f3bd7dc2883d34c5815-10995463-images-thumbs&n=13",
       "wallpapers": [
         {
           "id": 0,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Blue Monster Playground_3",
+          "path": "https://avatars.mds.yandex.net/i?id=1faa17d629a83c8dde15daa83206647cf5a784ca-9104160-images-thumbs&n=13"
         },
         {
           "id": 1,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Blue Monster Playground_3",
+          "path": "https://avatars.mds.yandex.net/i?id=eb2ff44a6a1d92a910fe1b764b9b569851c169a9-7953198-images-thumbs&n=13"
         },
         {
           "id": 2,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Blue Monster Playground_3",
+          "path": "https://avatars.mds.yandex.net/i?id=b14a9502808af34865e372c1a26d1215e1e37c91-10707439-images-thumbs&n=13"
         },
         {
           "id": 3,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Blue Monster Playground_3",
+          "path": "https://avatars.mds.yandex.net/i?id=1923090cea719654ce4c8e58f4e6791b37968946-9181483-images-thumbs&n=13"
         },
         {
           "id": 4,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Blue Monster Playground_3",
+          "path": "https://avatars.mds.yandex.net/i?id=cf399950a896fc2f03864020b5f058ab5c757d82-12491243-images-thumbs&n=13"
         },
         {
           "id": 5,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Blue Monster Playground_3",
+          "path": "https://avatars.mds.yandex.net/i?id=3f16b879ce21325f5c90037e0d5fe824be82e31f-8496972-images-thumbs&n=13"
         },
         {
           "id": 6,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Blue Monster Playground_3",
+          "path": "https://avatars.mds.yandex.net/i?id=b0549c8f465045f3ceab645b09c22a644f0e63e5-9056327-images-thumbs&n=13"
         },
         {
           "id": 7,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Blue Monster Playground_3",
+          "path": "https://avatars.mds.yandex.net/i?id=21f1d6f9cc4c2eef69489c378e01a8855a29dcc9-8492330-images-thumbs&n=13"
         }
       ]
     }
